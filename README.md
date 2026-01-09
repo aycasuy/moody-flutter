@@ -17,8 +17,11 @@ yardımcı olmak.
 ✨ Özellikler
 
 🌬️ Nefes terapisi egzersizleri
+
 🧠 Psikolojik testler
+
 🗂️ Kullanıcı verilerinin SQLite ile saklanması
+
 📱 Flutter ile geliştirilen modern arayüz
 
 🛠️ Teknik Detaylar
