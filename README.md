@@ -10,7 +10,9 @@ Uygulamada veriler, cihaz üzerinde SQLite veritabanı kullanılarak saklanmakta
 Kullanıcıların:
 
 Stres ve kaygı seviyelerini azaltmalarına
+
 Nefes terapisi tekniklerini öğrenmelerine
+
 Kendilerini daha iyi tanımalarına
 yardımcı olmak.
 
@@ -27,9 +29,12 @@ yardımcı olmak.
 🛠️ Teknik Detaylar
 
 Framework: Flutter
+
 Dil: Dart
+
 Veritabanı: SQLite
 
+State Yönetimi: (Varsa ekle — Provider / setState / Bloc vb.)
 
 📂 Proje Yapısı
 
@@ -47,7 +52,5 @@ Bu uygulama tıbbi teşhis veya tedavi amacı taşımaz.
 Bilgilendirme ve kişisel gelişim amaçlıdır.
 
 📌 Lisans
-
-Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 
 Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
