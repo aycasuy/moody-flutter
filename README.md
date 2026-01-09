@@ -1,16 +1,50 @@
-# untitled8
+🧘 Nefes Terapisi ve Psikolojik Destek Uygulaması
 
-A new Flutter project.
+Bu proje, Flutter (Dart) kullanılarak geliştirilen;
+nefes egzersizleri, psikolojik testler ve kullanıcı takibi özellikleri içeren bir mobil uygulamadır.
 
-## Getting Started
+Uygulamada veriler, cihaz üzerinde SQLite veritabanı kullanılarak saklanmaktadır.
 
-This project is a starting point for a Flutter application.
+🎯 Uygulamanın Amacı
 
-A few resources to get you started if this is your first Flutter project:
+Kullanıcıların:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Stres ve kaygı seviyelerini azaltmalarına
+Nefes terapisi tekniklerini öğrenmelerine
+Kendilerini daha iyi tanımalarına
+yardımcı olmak.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Özellikler
+
+🌬️ Nefes terapisi egzersizleri
+🧠 Psikolojik testler
+🗂️ Kullanıcı verilerinin SQLite ile saklanması
+📱 Flutter ile geliştirilen modern arayüz
+
+🛠️ Teknik Detaylar
+
+Framework: Flutter
+Dil: Dart
+Veritabanı: SQLite
+
+
+📂 Proje Yapısı
+
+lib/ → Uygulama kaynak kodları
+
+assets/ → Görseller ve statik dosyalar
+
+📦 APK
+
+Oynanabilir APK dosyası GitHub Releases bölümünde paylaşılmıştır.
+
+⚠️ Önemli Not
+
+Bu uygulama tıbbi teşhis veya tedavi amacı taşımaz.
+Bilgilendirme ve kişisel gelişim amaçlıdır.
+
+📌 Lisans
+
+Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
+
+Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
