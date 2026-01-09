@@ -34,7 +34,7 @@ Dil: Dart
 
 Veritabanı: SQLite
 
-State Yönetimi: (Varsa ekle — Provider / setState / Bloc vb.)
+
 
 📂 Proje Yapısı
 
